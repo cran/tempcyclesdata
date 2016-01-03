@@ -1,6 +1,6 @@
-3ca83a99b0cc2864c731859156d3ca83 *DESCRIPTION
+38f313c4dad53e5d84831a5f41bed7c5 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-8868896d5845a47462ce017bac11f434 *R/data.R
+424bfdc65a96cf989c964525b86d6d5a *R/data.R
 478dba54d69948d690126afd2bd88a8f *data/datalist
-785ff8bdc628b40b369907213e408574 *data/tempcyclesdata.rda
-3c333501421e3cc8787591718f06c1b2 *man/tempcyclesdata.Rd
+fd84f80a5d38571b906ec7c19b7f29e5 *data/tempcyclesdata.rda
+7f0e4d35af1e042c3edd6ef7d92ff21a *man/tempcyclesdata.Rd
